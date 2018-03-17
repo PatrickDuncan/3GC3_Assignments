@@ -1,0 +1,6 @@
+Improved Camera
+Display 2D terrain overview
+(bonus) Character moving
+
+P.S.
+For larger inputs you have to move the lights positively to see it properly!
